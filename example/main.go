@@ -5,5 +5,7 @@ import (
 )
 
 func main() {
-	watch.Test()
+	//	watch.Test()
+	watch.TestWinProc()
+	// watch.TestWinNetInfo()
 }
